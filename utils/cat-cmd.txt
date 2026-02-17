@@ -1,0 +1,1 @@
+This is text file used to create for the purpose to read it by using the "cat" command.
